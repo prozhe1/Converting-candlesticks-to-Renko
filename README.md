@@ -1,1 +1,1 @@
-# Converting-candlesticks-to-Renko
+The Author : Mehrdad Andalibi Clinic IT Copy the source and use it.
